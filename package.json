@@ -1,0 +1,10 @@
+{
+  "name": "WSServer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^3.3.3"
+  }
+}
